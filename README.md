@@ -1,6 +1,6 @@
 # Liquidity-Engine
 I created an App to summarise and visualise various elements of Liquidity in US Indices: Options Positioning with Gamma and Charm, Psyochologically enticing artifically created price moves, correllated markets, Time of Day sensitivites, buying and selling algorhythms on different timeframes. Liquidity is the concept that controls the markets and will always be present regardless of macro context.
-![LiquidityEngine](https://github.com/user-attachments/assets/3c03b8b6-fcd0-4cb2-bd11-d9e2e7cad28f)
+![LiquidityEngine](https://github.com/user-attachments/assets/dab7a67f-333a-4462-a49a-4769b90c5c9e)
 
 After years of learning about the financial markets, discovering my personal edge and visualising it in various individual indicators throughout a multitude of custom trading software (See 'Indicators' Repo on my GitHub), I finally decided it was time to merge all of these indicators and platforms in one place. Not only to avoid platform costs but also to circum-navigate the limitations of each platform. I wanted to create an allencompassing platform in a general language where I would finally have all the necessary flexibility that I had been missing all these years.
 
